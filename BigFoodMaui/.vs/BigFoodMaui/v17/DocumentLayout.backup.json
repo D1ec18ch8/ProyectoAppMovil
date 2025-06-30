@@ -1,7 +1,60 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sjohn\\OneDrive\\Escritorio\\Proyecto de mierda de movil\\ProyectoAppMovil\\BigFoodMaui\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\jeffe\\OneDrive\\Escritorio\\ProyectoMaui\\ProyectoAppMovil\\BigFoodMaui\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E71AB264-BB03-48C9-921C-9C37AB6E5D16}|BigFoodMaui\\BigFoodMaui.csproj|c:\\users\\jeffe\\onedrive\\escritorio\\proyectomaui\\proyectoappmovil\\bigfoodmaui\\bigfoodmaui\\views\\viewfactura.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E71AB264-BB03-48C9-921C-9C37AB6E5D16}|BigFoodMaui\\BigFoodMaui.csproj|solutionrelative:bigfoodmaui\\views\\viewfactura.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71AB264-BB03-48C9-921C-9C37AB6E5D16}|BigFoodMaui\\BigFoodMaui.csproj|c:\\users\\jeffe\\onedrive\\escritorio\\proyectomaui\\proyectoappmovil\\bigfoodmaui\\bigfoodmaui\\views\\viewfactura.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71AB264-BB03-48C9-921C-9C37AB6E5D16}|BigFoodMaui\\BigFoodMaui.csproj|solutionrelative:bigfoodmaui\\views\\viewfactura.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71AB264-BB03-48C9-921C-9C37AB6E5D16}|BigFoodMaui\\BigFoodMaui.csproj|c:\\users\\jeffe\\onedrive\\escritorio\\proyectomaui\\proyectoappmovil\\bigfoodmaui\\bigfoodmaui\\model\\facturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71AB264-BB03-48C9-921C-9C37AB6E5D16}|BigFoodMaui\\BigFoodMaui.csproj|solutionrelative:bigfoodmaui\\model\\facturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71AB264-BB03-48C9-921C-9C37AB6E5D16}|BigFoodMaui\\BigFoodMaui.csproj|c:\\users\\jeffe\\onedrive\\escritorio\\proyectomaui\\proyectoappmovil\\bigfoodmaui\\bigfoodmaui\\services\\apiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71AB264-BB03-48C9-921C-9C37AB6E5D16}|BigFoodMaui\\BigFoodMaui.csproj|solutionrelative:bigfoodmaui\\services\\apiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71AB264-BB03-48C9-921C-9C37AB6E5D16}|BigFoodMaui\\BigFoodMaui.csproj|c:\\users\\jeffe\\onedrive\\escritorio\\proyectomaui\\proyectoappmovil\\bigfoodmaui\\bigfoodmaui\\views\\viewlogin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71AB264-BB03-48C9-921C-9C37AB6E5D16}|BigFoodMaui\\BigFoodMaui.csproj|solutionrelative:bigfoodmaui\\views\\viewlogin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71AB264-BB03-48C9-921C-9C37AB6E5D16}|BigFoodMaui\\BigFoodMaui.csproj|c:\\users\\jeffe\\onedrive\\escritorio\\proyectomaui\\proyectoappmovil\\bigfoodmaui\\bigfoodmaui\\views\\viewlogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E71AB264-BB03-48C9-921C-9C37AB6E5D16}|BigFoodMaui\\BigFoodMaui.csproj|solutionrelative:bigfoodmaui\\views\\viewlogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71AB264-BB03-48C9-921C-9C37AB6E5D16}|BigFoodMaui\\BigFoodMaui.csproj|c:\\users\\jeffe\\onedrive\\escritorio\\proyectomaui\\proyectoappmovil\\bigfoodmaui\\bigfoodmaui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71AB264-BB03-48C9-921C-9C37AB6E5D16}|BigFoodMaui\\BigFoodMaui.csproj|solutionrelative:bigfoodmaui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71AB264-BB03-48C9-921C-9C37AB6E5D16}|BigFoodMaui\\BigFoodMaui.csproj|c:\\users\\jeffe\\onedrive\\escritorio\\proyectomaui\\proyectoappmovil\\bigfoodmaui\\bigfoodmaui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E71AB264-BB03-48C9-921C-9C37AB6E5D16}|BigFoodMaui\\BigFoodMaui.csproj|solutionrelative:bigfoodmaui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71AB264-BB03-48C9-921C-9C37AB6E5D16}|BigFoodMaui\\BigFoodMaui.csproj|c:\\users\\jeffe\\onedrive\\escritorio\\proyectomaui\\proyectoappmovil\\bigfoodmaui\\bigfoodmaui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71AB264-BB03-48C9-921C-9C37AB6E5D16}|BigFoodMaui\\BigFoodMaui.csproj|solutionrelative:bigfoodmaui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71AB264-BB03-48C9-921C-9C37AB6E5D16}|BigFoodMaui\\BigFoodMaui.csproj|c:\\users\\jeffe\\onedrive\\escritorio\\proyectomaui\\proyectoappmovil\\bigfoodmaui\\bigfoodmaui\\services\\apibigfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71AB264-BB03-48C9-921C-9C37AB6E5D16}|BigFoodMaui\\BigFoodMaui.csproj|solutionrelative:bigfoodmaui\\services\\apibigfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71AB264-BB03-48C9-921C-9C37AB6E5D16}|BigFoodMaui\\BigFoodMaui.csproj|c:\\users\\jeffe\\onedrive\\escritorio\\proyectomaui\\proyectoappmovil\\bigfoodmaui\\bigfoodmaui\\model\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71AB264-BB03-48C9-921C-9C37AB6E5D16}|BigFoodMaui\\BigFoodMaui.csproj|solutionrelative:bigfoodmaui\\model\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71AB264-BB03-48C9-921C-9C37AB6E5D16}|BigFoodMaui\\BigFoodMaui.csproj|c:\\users\\jeffe\\onedrive\\escritorio\\proyectomaui\\proyectoappmovil\\bigfoodmaui\\bigfoodmaui\\model\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71AB264-BB03-48C9-921C-9C37AB6E5D16}|BigFoodMaui\\BigFoodMaui.csproj|solutionrelative:bigfoodmaui\\model\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71AB264-BB03-48C9-921C-9C37AB6E5D16}|BigFoodMaui\\BigFoodMaui.csproj|c:\\users\\jeffe\\onedrive\\escritorio\\proyectomaui\\proyectoappmovil\\bigfoodmaui\\bigfoodmaui\\bigfoodmaui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E71AB264-BB03-48C9-921C-9C37AB6E5D16}|BigFoodMaui\\BigFoodMaui.csproj|solutionrelative:bigfoodmaui\\bigfoodmaui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,19 +62,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 23,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
@@ -37,31 +114,15 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Bookmark",
@@ -69,25 +130,176 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 18,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewLogin.xaml",
+              "DocumentMoniker": "C:\\Users\\jeffe\\OneDrive\\Escritorio\\ProyectoMaui\\ProyectoAppMovil\\BigFoodMaui\\BigFoodMaui\\Views\\ViewLogin.xaml",
+              "RelativeDocumentMoniker": "BigFoodMaui\\Views\\ViewLogin.xaml",
+              "ToolTip": "C:\\Users\\jeffe\\OneDrive\\Escritorio\\ProyectoMaui\\ProyectoAppMovil\\BigFoodMaui\\BigFoodMaui\\Views\\ViewLogin.xaml",
+              "RelativeToolTip": "BigFoodMaui\\Views\\ViewLogin.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-30T04:33:12.032Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewLogin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jeffe\\OneDrive\\Escritorio\\ProyectoMaui\\ProyectoAppMovil\\BigFoodMaui\\BigFoodMaui\\Views\\ViewLogin.xaml.cs",
+              "RelativeDocumentMoniker": "BigFoodMaui\\Views\\ViewLogin.xaml.cs",
+              "ToolTip": "C:\\Users\\jeffe\\OneDrive\\Escritorio\\ProyectoMaui\\ProyectoAppMovil\\BigFoodMaui\\BigFoodMaui\\Views\\ViewLogin.xaml.cs",
+              "RelativeToolTip": "BigFoodMaui\\Views\\ViewLogin.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T04:33:14.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewFactura.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jeffe\\OneDrive\\Escritorio\\ProyectoMaui\\ProyectoAppMovil\\BigFoodMaui\\BigFoodMaui\\Views\\ViewFactura.xaml.cs",
+              "RelativeDocumentMoniker": "BigFoodMaui\\Views\\ViewFactura.xaml.cs",
+              "ToolTip": "C:\\Users\\jeffe\\OneDrive\\Escritorio\\ProyectoMaui\\ProyectoAppMovil\\BigFoodMaui\\BigFoodMaui\\Views\\ViewFactura.xaml.cs",
+              "RelativeToolTip": "BigFoodMaui\\Views\\ViewFactura.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowB4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T04:34:13.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\jeffe\\OneDrive\\Escritorio\\ProyectoMaui\\ProyectoAppMovil\\BigFoodMaui\\BigFoodMaui\\App.xaml",
+              "RelativeDocumentMoniker": "BigFoodMaui\\App.xaml",
+              "ToolTip": "C:\\Users\\jeffe\\OneDrive\\Escritorio\\ProyectoMaui\\ProyectoAppMovil\\BigFoodMaui\\BigFoodMaui\\App.xaml",
+              "RelativeToolTip": "BigFoodMaui\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-30T06:34:13.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\jeffe\\OneDrive\\Escritorio\\ProyectoMaui\\ProyectoAppMovil\\BigFoodMaui\\BigFoodMaui\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "BigFoodMaui\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\jeffe\\OneDrive\\Escritorio\\ProyectoMaui\\ProyectoAppMovil\\BigFoodMaui\\BigFoodMaui\\MauiProgram.cs",
+              "RelativeToolTip": "BigFoodMaui\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T06:34:23.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\jeffe\\OneDrive\\Escritorio\\ProyectoMaui\\ProyectoAppMovil\\BigFoodMaui\\BigFoodMaui\\Model\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "BigFoodMaui\\Model\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\jeffe\\OneDrive\\Escritorio\\ProyectoMaui\\ProyectoAppMovil\\BigFoodMaui\\BigFoodMaui\\Model\\AuthResponse.cs",
+              "RelativeToolTip": "BigFoodMaui\\Model\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T06:26:51.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewFactura.xaml",
+              "DocumentMoniker": "C:\\Users\\jeffe\\OneDrive\\Escritorio\\ProyectoMaui\\ProyectoAppMovil\\BigFoodMaui\\BigFoodMaui\\Views\\ViewFactura.xaml",
+              "RelativeDocumentMoniker": "BigFoodMaui\\Views\\ViewFactura.xaml",
+              "ToolTip": "C:\\Users\\jeffe\\OneDrive\\Escritorio\\ProyectoMaui\\ProyectoAppMovil\\BigFoodMaui\\BigFoodMaui\\Views\\ViewFactura.xaml*",
+              "RelativeToolTip": "BigFoodMaui\\Views\\ViewFactura.xaml*",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAiwFIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-30T04:50:59.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApiBigFood.cs",
+              "DocumentMoniker": "C:\\Users\\jeffe\\OneDrive\\Escritorio\\ProyectoMaui\\ProyectoAppMovil\\BigFoodMaui\\BigFoodMaui\\Services\\ApiBigFood.cs",
+              "RelativeDocumentMoniker": "BigFoodMaui\\Services\\ApiBigFood.cs",
+              "ToolTip": "C:\\Users\\jeffe\\OneDrive\\Escritorio\\ProyectoMaui\\ProyectoAppMovil\\BigFoodMaui\\BigFoodMaui\\Services\\ApiBigFood.cs",
+              "RelativeToolTip": "BigFoodMaui\\Services\\ApiBigFood.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T04:34:02.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiServices.cs",
+              "DocumentMoniker": "C:\\Users\\jeffe\\OneDrive\\Escritorio\\ProyectoMaui\\ProyectoAppMovil\\BigFoodMaui\\BigFoodMaui\\Services\\ApiServices.cs",
+              "RelativeDocumentMoniker": "BigFoodMaui\\Services\\ApiServices.cs",
+              "ToolTip": "C:\\Users\\jeffe\\OneDrive\\Escritorio\\ProyectoMaui\\ProyectoAppMovil\\BigFoodMaui\\BigFoodMaui\\Services\\ApiServices.cs",
+              "RelativeToolTip": "BigFoodMaui\\Services\\ApiServices.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwBsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T04:34:04.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Facturas.cs",
+              "DocumentMoniker": "C:\\Users\\jeffe\\OneDrive\\Escritorio\\ProyectoMaui\\ProyectoAppMovil\\BigFoodMaui\\BigFoodMaui\\Model\\Facturas.cs",
+              "RelativeDocumentMoniker": "BigFoodMaui\\Model\\Facturas.cs",
+              "ToolTip": "C:\\Users\\jeffe\\OneDrive\\Escritorio\\ProyectoMaui\\ProyectoAppMovil\\BigFoodMaui\\BigFoodMaui\\Model\\Facturas.cs",
+              "RelativeToolTip": "BigFoodMaui\\Model\\Facturas.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T06:28:57.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jeffe\\OneDrive\\Escritorio\\ProyectoMaui\\ProyectoAppMovil\\BigFoodMaui\\BigFoodMaui\\App.xaml.cs",
+              "RelativeDocumentMoniker": "BigFoodMaui\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\jeffe\\OneDrive\\Escritorio\\ProyectoMaui\\ProyectoAppMovil\\BigFoodMaui\\BigFoodMaui\\App.xaml.cs",
+              "RelativeToolTip": "BigFoodMaui\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T04:33:56.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\jeffe\\OneDrive\\Escritorio\\ProyectoMaui\\ProyectoAppMovil\\BigFoodMaui\\BigFoodMaui\\Model\\Usuarios.cs",
+              "RelativeDocumentMoniker": "BigFoodMaui\\Model\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\jeffe\\OneDrive\\Escritorio\\ProyectoMaui\\ProyectoAppMovil\\BigFoodMaui\\BigFoodMaui\\Model\\Usuarios.cs",
+              "RelativeToolTip": "BigFoodMaui\\Model\\Usuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T06:29:57.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BigFoodMaui",
+              "DocumentMoniker": "C:\\Users\\jeffe\\OneDrive\\Escritorio\\ProyectoMaui\\ProyectoAppMovil\\BigFoodMaui\\BigFoodMaui\\BigFoodMaui.csproj",
+              "RelativeDocumentMoniker": "BigFoodMaui\\BigFoodMaui.csproj",
+              "ToolTip": "C:\\Users\\jeffe\\OneDrive\\Escritorio\\ProyectoMaui\\ProyectoAppMovil\\BigFoodMaui\\BigFoodMaui\\BigFoodMaui.csproj",
+              "RelativeToolTip": "BigFoodMaui\\BigFoodMaui.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-30T05:56:26.585Z",
+              "EditorCaption": ""
             }
           ]
         }

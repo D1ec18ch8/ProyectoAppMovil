@@ -2,16 +2,93 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="BigFoodMaui.Views.ViewLogin"
-             Title="Login">
+             Title="Iniciar Sesión"
+             BackgroundColor="#F9F9F9">
 
-    <VerticalStackLayout Padding="30" Spacing="15">
+    <ScrollView>
+        <Grid RowDefinitions="Auto,Auto,Auto,Auto,Auto"
+              ColumnDefinitions="*,Auto,*"
+              RowSpacing="20"
+              Padding="30,50"
+              VerticalOptions="Center">
 
-        <Label Text="Usuario" />
-        <Entry x:Name="txtUser" Placeholder="Ingrese su usuario" />
+            <!-- Header -->
+            <Frame Grid.Row="0" 
+                   Grid.Column="1"
+                   BackgroundColor="#6D4C41"
+                   CornerRadius="12"
+                   Padding="20"
+                   HasShadow="True">
+                <Label Text="BigFood" 
+                       TextColor="White"
+                       FontSize="28"
+                       FontAttributes="Bold"
+                       HorizontalOptions="Center"/>
+            </Frame>
 
-        <Label Text="Contraseña" />
-        <Entry x:Name="txtPass" Placeholder="Ingrese su contraseña" IsPassword="True" />
+            <!-- Campos de formulario -->
+            <Frame Grid.Row="1"
+                   Grid.Column="0"
+                   Grid.ColumnSpan="3"
+                   BackgroundColor="White"
+                   CornerRadius="12"
+                   Padding="20"
+                   HasShadow="True">
 
-        <Button Text="Iniciar Sesión" Clicked="btnLogin_Clicked" />
-    </VerticalStackLayout>
+                <VerticalStackLayout Spacing="15">
+                    <!-- Usuario -->
+                    <Label Text="Usuario" 
+                           FontAttributes="Bold"
+                           TextColor="#6D4C41"
+                           FontSize="14"/>
+
+                    <Entry x:Name="txtUser" 
+                           Placeholder="usuario@ejemplo.com"
+                           PlaceholderColor="#AAAAAA"
+                           TextColor="#333333"
+                           Keyboard="Email"
+                           ClearButtonVisibility="WhileEditing">
+                        
+                    </Entry>
+
+                    <!-- Contraseña -->
+                    <Label Text="Contraseña" 
+                           FontAttributes="Bold"
+                           TextColor="#6D4C41"
+                           FontSize="14"
+                           Margin="0,10,0,0"/>
+
+                    <Entry x:Name="txtPass" 
+                           Placeholder="••••••••"
+                           PlaceholderColor="#AAAAAA"
+                           TextColor="#333333"
+                           IsPassword="True"
+                           ClearButtonVisibility="WhileEditing">
+                    </Entry>
+                </VerticalStackLayout>
+            </Frame>
+
+            <!-- Botón de Login -->
+            <Button Grid.Row="2"
+                    Grid.Column="1"
+                    Text="INICIAR SESIÓN"
+                    BackgroundColor="#6D4C41"
+                    TextColor="White"
+                    FontAttributes="Bold"
+                    CornerRadius="20"
+                    HeightRequest="50"
+                    WidthRequest="200"
+                    Clicked="btnLogin_Clicked"/>
+
+            <!-- Footer -->
+            <Label Grid.Row="4"
+                   Grid.Column="0"
+                   Grid.ColumnSpan="3"
+                   Text="v1.0.0"
+                   TextColor="#AAAAAA"
+                   FontSize="12"
+                   HorizontalOptions="Center"
+                   Margin="0,20"/>
+        </Grid>
+    </ScrollView>
 </ContentPage>
