@@ -1,1 +1,1 @@
-C:\Users\jeffe\OneDrive\Escritorio\ProyectoMaui\BigFoodMaui\BigFoodMaui\BigFoodMaui.csproj;x64
+C:\Users\sjohn\OneDrive\Escritorio\Proyecto de mierda de movil\ProyectoAppMovil\BigFoodMaui\BigFoodMaui\BigFoodMaui.csproj;x64
