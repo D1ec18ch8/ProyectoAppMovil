@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace BigFoodMaui.Model
 {
+    //Clase Factura con sus atributos
     public class Facturas
     {
         public int numero { get; set; }

@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BigFoodMaui")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+bad20a1f29fd3f4d7387aec4c42906554984df1f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+ee724948a5ae1aac6ec3648e8d837d39f8ef5997")]
 [assembly: System.Reflection.AssemblyProductAttribute("BigFoodMaui")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BigFoodMaui")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

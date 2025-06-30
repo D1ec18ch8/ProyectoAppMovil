@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace BigFoodMaui.Model
 {
+    //Clase usuario con sus atributos
     public class Usuarios
     {
         public int id { get; set; }
