@@ -32,7 +32,7 @@ public partial class ViewLogin : ContentPage
         if (!string.IsNullOrEmpty(token))
         {
             await DisplayAlert("Éxito", "Inicio de sesión correcto", "OK");
-            await Navigation.PushAsync(new ViewFactura(token)); // Asegúrate que ViewFactura reciba el token
+            await Navigation.PushAsync(new ViewFactura(token));
         }
         else
         {
